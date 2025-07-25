@@ -12,6 +12,7 @@ Detect fraudulent credit card transactions using supervised learning techniques.
 ### 📂 Dataset
 - **Type**: Financial, anonymized transaction records
 - **Size**: ~285,000 rows, binary labels (fraud / not fraud)
+- [https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data]
 
 ### 🔧 Models Used
 - Logistic Regression
@@ -36,6 +37,7 @@ Predict a continuous financial variable (e.g., price, volume) based on market or
 - **Type**: Structured financial data
 - **Target Variable**: Continuous (e.g., future stock value)
 - **Features**: Economic indicators, historical prices, volumes
+- [https://www.kaggle.com/datasets/debashis74017/nifty-bank-minute-data?select=NIFTY+BANK+-+1+day_with_indicators_.csv]
 
 ### 🔧 Models Used
 - Linear Regression
@@ -60,6 +62,7 @@ Classify images into one of several categories using deep learning.
 - **Type**: Images (e.g., animals, objects, or digits)
 - **Format**: JPEG/PNG
 - **Labels**: Multiple classes (e.g., 10–100 classes)
+- [https://www.kaggle.com/datasets/sshikamaru/fruit-recognition]
 
 ### 🧠 Techniques
 - Data Augmentation
