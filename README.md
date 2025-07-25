@@ -1,4 +1,4 @@
-# 📊 AI/ML Project Portfolio
+# 📊 ML Project Portfolio
 
 This repository contains three end-to-end machine learning projects demonstrating expertise in classification, regression, and computer vision. Each project includes preprocessing, model training, evaluation, and ethical considerations.
 
