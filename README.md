@@ -87,7 +87,6 @@ Model achieved high classification accuracy using convolutional layers, batch no
 ## 📚 References
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Keras & TensorFlow](https://www.tensorflow.org/)
-- ChatGPT (for technical assistance and explanations)
 - Stack Overflow
 
 ---
@@ -99,9 +98,3 @@ Model achieved high classification accuracy using convolutional layers, batch no
 - TensorFlow / Keras (for CNNs)
 - Jupyter Notebook
 
----
-
-## ✍️ Author
-- **Name**: [Your Name]
-- **GitHub**: [YourUsername]
-- **Email**: [YourEmail@example.com]
